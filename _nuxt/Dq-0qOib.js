@@ -1,0 +1,1 @@
+import{f as e,x as t,z as n}from"./pX2Ss2ZU.js";import{t as r}from"./DFRyxRQ_.js";var i=t({__name:`index`,setup(t){return(t,i)=>(n(),e(r,{page:1}))}}),a={};typeof a==`function`&&a(i);var o=i;export{o as default};
