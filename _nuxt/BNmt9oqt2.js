@@ -1,0 +1,1 @@
+import{C as e,V as t,p as n}from"./BwUN2x_K.js";import{t as r}from"./_MyZ6aPr2.js";var i=e({__name:`index`,setup(e){return(e,i)=>(t(),n(r,{page:1}))}}),a={};typeof a==`function`&&a(i);var o=i;export{o as default};

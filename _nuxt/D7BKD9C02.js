@@ -1,0 +1,1 @@
+import{C as e,It as t,V as n,_t as r,f as i,h as a}from"./BwUN2x_K.js";import{f as o}from"./BYtbqJqt.js";var s={class:`p-8`},c=e({__name:`[slug]`,setup(e){let c=o();return(e,o)=>(n(),a(`div`,s,[i(`p`,null,`這一頁來自 layers/courses/app/pages/courses/[slug].vue，slug 為 `+t(r(c).params.slug),1)]))}});export{c as default};
