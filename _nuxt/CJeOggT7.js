@@ -1,0 +1,1 @@
+function e(e){return{id:e.trackingId??e.id,name:e.name,price:e.originPrice,type:`product`}}export{e as t};
