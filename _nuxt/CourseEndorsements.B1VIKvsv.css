@@ -1,0 +1,1 @@
+@keyframes scroll-up-ce6af32e{0%{transform:translateY(0)}to{transform:translateY(-50%)}}.ticker-track.is-scrolling[data-v-ce6af32e]{animation:scroll-up-ce6af32e var(--scroll-duration) linear infinite}.ticker-track.is-paused[data-v-ce6af32e]{animation-play-state:paused}

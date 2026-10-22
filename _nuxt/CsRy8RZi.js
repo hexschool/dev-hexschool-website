@@ -1,0 +1,1 @@
+import{C as e,V as t,p as n,vt as r}from"./CsXuga9J.js";import{f as i}from"./CTELXy_M.js";import{t as a}from"./D8cCaa5z.js";var o=e({__name:`index`,setup(e){let o=i(),s=String(o.params.tag);return(e,i)=>(t(),n(a,{page:1,"tag-slug":r(s)},null,8,[`tag-slug`]))}}),s={};typeof s==`function`&&s(o);var c=o;export{c as default};
